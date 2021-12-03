@@ -1,10 +1,10 @@
 body{
-    margin: 20;
-    padding: 10;
+    margin: 0;
+    padding: 0;
     background: #000;
 }
 p{
-    font-size: 12px;
+    font-size: 8px;
     line-height: 8px;
     text-align: justify;
     -webkit-background-size:cover;
