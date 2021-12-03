@@ -4,8 +4,8 @@ body{
     background: #000;
 }
 p{
-    font-size: 8px;
-    line-height: 8px;
+    font-size: 20px;
+    line-height: 12px;
     text-align: justify;
     -webkit-background-size:cover;
     background-size: cover;
